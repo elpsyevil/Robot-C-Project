@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1576154435 source:c:\users\lenovo\documents\partg\robot\robot\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+
+1576505024 source:c:\users\lenovo\documents\partg\robot\robot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+	"fonctions.h"
+
+1576026999 c:\users\lenovo\documents\partg\robot\robot\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+
+1576154435 source:d:\robot\robot\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+
+1576505024 source:d:\robot\robot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+	"fonctions.h"
+
+1576026999 d:\robot\robot\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+
+1579272950 source:d:\ensias\robot\robot\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+
+1579272632 source:d:\ensias\robot\robot\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+	"fonctions.h"
+
+1579272740 d:\ensias\robot\robot\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+
+1580068397 source:d:\project c\robotv1\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+
+1580080539 source:d:\project c\robotv1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+	"fonctions.h"
+
+1580050611 d:\project c\robotv1\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+
+1580151335 source:d:\project c\robotv2\fonctions.c
+	"main.h"
+
+1580151452 source:d:\project c\robotv2\main.c
+	"main.h"
+
+1580151335 d:\project c\robotv2\fonctions.h
+
+1580151024 d:\project c\robotv2\main.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+	"fonctions.h"
+
+1580244550 source:d:\project c\robotv3\fonctions.c
+	"main.h"
+
+1580231548 d:\project c\robotv3\main.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+	<time.h>
+	"fonctions.h"
+
+1580230009 d:\project c\robotv3\fonctions.h
+
+1580287471 source:d:\project c\robotv3\main.c
+	"main.h"
+
+1580244550 source:c:\users\lenovo\desktop\robotv3\fonctions.c
+	"main.h"
+
+1580231548 c:\users\lenovo\desktop\robotv3\main.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+	<time.h>
+	"fonctions.h"
+
+1580230009 c:\users\lenovo\desktop\robotv3\fonctions.h
+
+1580294262 source:c:\users\lenovo\desktop\robotv3\main.c
+	"main.h"
+
+1580244550 source:c:\users\lenovo\desktop\anasl'hichou_ridatazi_g5_6\robot\fonctions.c
+	"main.h"
+
+1580231548 c:\users\lenovo\desktop\anasl'hichou_ridatazi_g5_6\robot\main.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_timer.h>
+	<SDL_image.h>
+	<time.h>
+	"fonctions.h"
+
+1580230009 c:\users\lenovo\desktop\anasl'hichou_ridatazi_g5_6\robot\fonctions.h
+
+1580294262 source:c:\users\lenovo\desktop\anasl'hichou_ridatazi_g5_6\robot\main.c
+	"main.h"
+
